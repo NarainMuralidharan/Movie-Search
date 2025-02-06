@@ -17,7 +17,7 @@ const App = () => {
             </Routes>
           </div>
       </MovieProvider>
-    // </BrowserRouter >
+    </BrowserRouter >
   );
 };
 
